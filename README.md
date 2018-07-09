@@ -18,6 +18,7 @@ Don't forget to follow me on social media:
     cd billable-api-tutorial
     composer install
     npm install
+    php artisan key:generate
     php artisan migrate
     php artisan passport:install
 
