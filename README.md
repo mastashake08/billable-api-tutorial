@@ -7,9 +7,11 @@ NEO/GAS/NEP5: AH5cyWuuueBTAizYZtM4KJf9RSUs2uP3Ws
 Paypal: PayPal.me/jyroneparker Ca$h app: cash.me/mastashake08 
 
 Don't forget to follow me on social media:
-Twitter: https://twitter.com/mastashake08
-Instagram: https://instagram.com/mastashake08
-Facebook: https://facebook.com/jyroneparker
+
+ - Twitter: https://twitter.com/mastashake08 
+ - Instagram: https://instagram.com/mastashake08
+ - Facebook: https://facebook.com/jyroneparker
+
 # Getting Started
 
     git clone https://github.com/mastashake08/billable-api-tutorial.git
